@@ -27,6 +27,7 @@
 sudo: required
 dist: trusty
 language: cpp
+arch: ppc64le
 
 services:
   - docker
